@@ -1,0 +1,14 @@
+let message='Hi I am ligi';
+// let temp=123;
+// let temp=false;
+// let temp=[1,2,3,4];
+// console.log(temp.toString());
+// console.log(typeof temp.toString());
+// console.log(temp.toString());
+let m1='hi';
+let m2='ligi';
+let m3='hai';
+// let m=m1.concat(m2,m3);
+let m=m1+m2+m3;
+console.log(m);
+console.log(message.split(' '));
